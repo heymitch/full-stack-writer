@@ -1,0 +1,20 @@
+{
+  "name": "full-stack-writer",
+  "owner": {
+    "name": "Mitch Harris",
+    "email": "mitch@ship30for30.com"
+  },
+  "metadata": {
+    "description": "Full Stack Writer AI — The complete writing system. Newsletters, LinkedIn, X, email sequences, long-form. 7 skills.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "full-stack-writer",
+      "source": "./plugins/full-stack-writer",
+      "description": "The complete writing system: newsletters, LinkedIn, X, email sequences, long-form. Idea generation, editorial calendar, voice-matched drafts, cross-platform repurposing.",
+      "version": "1.0.0",
+      "category": "content"
+    }
+  ]
+}
